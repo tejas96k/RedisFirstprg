@@ -1,4 +1,6 @@
-﻿namespace github_first_programe
+﻿
+
+namespace github_first_programe
 {
     internal class Program
     {
